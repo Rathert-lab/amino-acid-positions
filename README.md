@@ -15,6 +15,6 @@ amino_acids = 'RKHEDNQSTCYWFMLIVAGP'
 
 
 
-run the script with: python protein_sequence.py
+run the script with: python amino_acid_positions.py
 
 ![image](https://github.com/user-attachments/assets/4f69240d-a154-493b-974a-85be6fb7343d)
